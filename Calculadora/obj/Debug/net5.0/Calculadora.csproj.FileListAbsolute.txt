@@ -13,3 +13,4 @@ C:\Users\diogo\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug
 C:\Users\diogo\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\net5.0\Calculadora.pdb
 C:\Users\diogo\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\net5.0\Calculadora.genruntimeconfig.cache
 C:\Users\diogo\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\net5.0\ref\Calculadora.dll
+C:\Users\diogo\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\net5.0\Calculadora.sourcelink.json

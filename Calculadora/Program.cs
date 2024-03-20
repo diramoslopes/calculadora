@@ -29,10 +29,10 @@ namespace Calculadora
             static Stack<long> PilhaM()
             {
                 var pilha = new Stack<long>();
-                pilha.Push(14 - 8);
-                pilha.Push(5 * 6);
-                pilha.Push(2147483647L + 2);
                 pilha.Push(18 / 3);
+                pilha.Push(2147483647L + 2);
+                pilha.Push(5 * 6);
+                pilha.Push(14 - 8);
                 return pilha;
             }
 
