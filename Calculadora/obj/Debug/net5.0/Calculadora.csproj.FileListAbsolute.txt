@@ -1,0 +1,15 @@
+C:\Users\diogo\Downloads\Calculadora-main\Calculadora-main\Calculadora\bin\Debug\net5.0\Calculadora.exe
+C:\Users\diogo\Downloads\Calculadora-main\Calculadora-main\Calculadora\bin\Debug\net5.0\Calculadora.deps.json
+C:\Users\diogo\Downloads\Calculadora-main\Calculadora-main\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.json
+C:\Users\diogo\Downloads\Calculadora-main\Calculadora-main\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.dev.json
+C:\Users\diogo\Downloads\Calculadora-main\Calculadora-main\Calculadora\bin\Debug\net5.0\Calculadora.dll
+C:\Users\diogo\Downloads\Calculadora-main\Calculadora-main\Calculadora\bin\Debug\net5.0\Calculadora.pdb
+C:\Users\diogo\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\net5.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\diogo\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfo.cs
+C:\Users\diogo\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\net5.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\net5.0\Calculadora.dll
+C:\Users\diogo\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\net5.0\refint\Calculadora.dll
+C:\Users\diogo\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\net5.0\Calculadora.pdb
+C:\Users\diogo\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\net5.0\Calculadora.genruntimeconfig.cache
+C:\Users\diogo\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\net5.0\ref\Calculadora.dll
