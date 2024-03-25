@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diogo\\Documents\\dio-git-e-github\\calculadora\\Calculadora\\Calculadora.csproj",
+      "projectUniqueName": "C:\\Users\\diogo\\OneDrive\\Documentos\\calc\\Calculadora\\Calculadora.csproj",
       "projectName": "Calculadora",
-      "projectPath": "C:\\Users\\diogo\\Documents\\dio-git-e-github\\calculadora\\Calculadora\\Calculadora.csproj",
+      "projectPath": "C:\\Users\\diogo\\OneDrive\\Documentos\\calc\\Calculadora\\Calculadora.csproj",
       "packagesPath": "C:\\Users\\diogo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diogo\\Documents\\dio-git-e-github\\calculadora\\Calculadora\\obj\\",
+      "outputPath": "C:\\Users\\diogo\\OneDrive\\Documentos\\calc\\Calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diogo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -16,20 +16,24 @@ namespace Calculadora
             }
             return operacao;
         }
-        public long soma(Operacoes operacao)
+        public double soma(Operacoes operacao)
         {
             return operacao.valorA + operacao.valorB;
         }
-        public long subtracao(Operacoes operacao)
+        public double subtracao(Operacoes operacao)
         {
             return operacao.valorA - operacao.valorB;
         }
-        public long multiplicacao(Operacoes operacao)
+        public double multiplicacao(Operacoes operacao)
         {
             return operacao.valorA * operacao.valorB;
         }
-        public long divisao(Operacoes operacao)
+        public double divisao(Operacoes operacao)
         {
+            if (operacao.valorB == 0){
+                Console.WriteLine("valor B não pode ser zero.");
+                return 0;
+            }
             return operacao.valorA / operacao.valorB;
         }
 
